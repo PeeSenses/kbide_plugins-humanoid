@@ -1,1 +1,3 @@
-# Blink library for KB-IDE
+# KBIDE PROJECT TEST ......... HUMANOID PROJECT....
+
+
